@@ -1,3 +1,23 @@
+/*
+ Author: Mike O'Malley
+ Source File: Year2038Bug.java
+ Description: Year 2038 Bug Demo.
+
+Source Code is on my GitHub:
+https://github.com/MooseValley/Dates-Year-2038-Issue
+
+Moose's Software Valley - Established July, 1996.
+https://rebrand.ly/MoosesSoftware
+
+Ammendment History
+Ver   Date        Author    Details
+----- ----------- --------- ----------------------------------------------------
+0.001 23-Feb-2020 Mike O    Created - simple Console App.
+0.002 24-Feb-2020 Mike O    Created - simple GUI Desktop Application.
+
+
+*/
+
 import javax.swing.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
