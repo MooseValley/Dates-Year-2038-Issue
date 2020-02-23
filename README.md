@@ -1,6 +1,6 @@
-# Dates - Year 2038 Issue
+# Dates - Year 2038 problem (also called Y2038 or Y2k38 or Unix Y2K)
 
-Explore the coming Year 2038 Issue ...  by developing a Java GUI Desktop App.
+Explore the coming Year 2038 problem ...  by developing a Java GUI Desktop App.
 
 
 ### LGR Tech Tales - Y2K: The Year 2000 Problem
