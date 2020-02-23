@@ -1,6 +1,6 @@
 # Dates - Year 2038 Issue
 
-Explore the coming Year 2038 Issue ...  by develop a Java GUI Desktop App.
+Explore the coming Year 2038 Issue ...  by developing a Java GUI Desktop App.
 
 
 ### LGR Tech Tales - Y2K: The Year 2000 Problem
@@ -37,7 +37,7 @@ next 292 million years.
 ## Source Code is on my GitHub:
 https://github.com/MooseValley/Dates-Year-2038-Issue
 
-## Youtube Video to Develop this Java GUI Desktop App:
+## Youtube Video of me developing this Java GUI Desktop App:
 https://youtu.be/KsUXIyokp6Y
 
 ## Moose's Software Valley - Established July, 1996.
