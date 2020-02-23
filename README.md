@@ -4,7 +4,7 @@ Explore the coming Year 2038 problem ...  by developing a Java GUI Desktop App.
 
 ## Screen Shot :smiley:
 
-![Year2038Bug - v0.002](Screen%20Shots%20OK/Year2038Bug - v0.002 - screen shot.png?raw=true "Year2038Bug - v0.002 - screen shot.png")
+![Year2038Bug - v0.002](Screen%20Shots%20OK/Year2038Bug%20-%20v0.002%20-%20screen shot.png?raw=true "Year2038Bug - v0.002 - screen shot.png")
 
 
 ### LGR Tech Tales - Y2K: The Year 2000 Problem
