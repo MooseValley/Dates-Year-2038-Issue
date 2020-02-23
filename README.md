@@ -2,19 +2,19 @@
 
 Explore the coming Year 2038 Issue ...
 
-# LGR Tech Tales - Y2K: The Year 2000 Problem
+### LGR Tech Tales - Y2K: The Year 2000 Problem
 20:16: https://www.youtube.com/watch?v=Xm5OiB3CPxg?t=1216
 
-# Unix time (also known as Epoch time, POSIX time,[1] seconds since the Epoch,[2] or UNIX Epoch time[3])
+### Unix time (also known as Epoch time, POSIX time,[1] seconds since the Epoch,[2] or UNIX Epoch time[3])
 https://en.wikipedia.org/wiki/Unix_time
 
-# Year 2038 problem
+### Year 2038 problem
 https://en.wikipedia.org/wiki/Year_2038_problem
 
-# Time formatting and storage bugs
+### Time formatting and storage bugs
 https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs
 
-# Unix time:
+### Unix time:
 * uses a signed 32 bit integer.
 * number of seconds passed since 00:00:00 UTC on 1 January 1970
 
@@ -23,7 +23,7 @@ https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs
 10000000000000000000000000000000 //            1901
 ````
 
-# Java Dates:
+### Java Dates:
 * Java's use of 64-bit long integers everywhere to represent time as
 "milliseconds since 1 January 1970" will work correctly for the
 next 292 million years.
